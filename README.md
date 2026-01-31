@@ -103,5 +103,4 @@ Diseño interfaces enfocadas en claridad, estructura y experiencia de usuario.
 ---
 
 ## 📫 Contacto
-- 📧 Email: TU_CORREO@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/TU_USUARIO_LINKEDIN
+- 📧 Email: gorenadavid7@gmail.com
