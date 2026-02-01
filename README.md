@@ -1,106 +1,114 @@
-<!-- ===== BANNER ===== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=140&text=Davoshelter&fontSize=40&desc=Estudiante%20de%20Ingeniería%20de%20Sistemas%20|%20Frontend%20%26%20Backend&descSize=16&descAlignY=70&color=0:0b0f1a,100:1f2937&fontColor=ffffff" />
-</p>
+<!-- ===== HEADER & LINKS ===== -->
+<h1 align="center">👋 ¡Hola! Soy <b>Davoshelter</b></h1>
+<h3 align="center">Estudiante de Ingeniería de Sistemas | Backend & Frontend</h3>
 
 <p align="center">
   <a href="https://github.com/Davoshelter">
-    <img src="https://img.shields.io/github/followers/Davoshelter?label=Followers&style=for-the-badge" />
+    <img src="https://img.shields.io/github/followers/Davoshelter?label=Followers&style=for-the-badge&color=238636" />
   </a>
   <a href="https://github.com/Davoshelter?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-View-0b0f1a?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Repositories-View-0b0f1a?style=for-the-badge&logo=github" />
+  </a>
+  <a href="mailto:gorenadavid7@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/g.oren.a/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 👋 Sobre mí
-Soy **estudiante de Ingeniería de Sistemas**, con interés en el desarrollo **Frontend** y **Backend**.  
-Trabajo con tecnologías web modernas y backend en **ASP.NET**, integrando **bases de datos relacionales**.  
-Además, diseño **wireframes** y **mockups de alta fidelidad en Figma**, cuidando la experiencia de usuario.
+<!-- ===== ABOUT ME ===== -->
+<h2 align="center">👋 Sobre mí</h2>
+
+<div align="center">
+  
+  <table>
+    <tr>
+      <td valign="top" width="60%">
+        <br>
+        <p>
+          ¡Hola! Soy <b>José David Gorena Nava</b>.
+        </p>
+        <p>
+          Estudiante de <b>Ingeniería de Sistemas</b> apasionado por el desarrollo de software. Mi enfoque principal es crear soluciones robustas y eficientes tanto en el <b>Frontend</b> como en el <b>Backend</b>.
+        </p>
+        <p>
+          🚀 <b>Lo que hago:</b>
+          <ul>
+            <li>Desarrollo aplicaciones web modernas con <b>React, Next.js y Node.js</b>.</li>
+            <li>Construyo backends sólidos en <b>C# (ASP.NET)</b> y gestiono bases de datos relacionales.</li>
+            <li>Diseño interfaces intuitivas y prototipos de alta fidelidad en <b>Figma</b>.</li>
+            <li>Experimento constantes con nuevas tecnologías ("Vibe Coding" ✨).</li>
+          </ul>
+        </p>
+      </td>
+      <td width="40%" align="center">
+        <img src="ChatGPT Image 30 ene 2026, 06_55_26 p.m..png" width="200" style="border-radius: 50%;" alt="Profile Logic" />
+      </td>
+    </tr>
+  </table>
+
+</div>
 
 ---
 
-## 🧰 Tech Stack
+<!-- ===== TECH STACK ===== -->
+<h2 align="center">🧰 Tech Stack</h2>
+
+<div align="center"> 
 
 ### Lenguajes
-<p>
-  <img src="https://skillicons.dev/icons?i=cs,js,html,css" />
-</p>
+<img src="https://skillicons.dev/icons?i=cs,cpp,js,html,css" height="50" alt="Lenguajes" />
 
 ### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs" />
-</p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" height="50" alt="Frontend" />
 
 ### Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=dotnet" />
-</p>
+<img src="https://skillicons.dev/icons?i=dotnet,nodejs" height="50" alt="Backend" />
 
-### Bases de Datos
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
-</p>
+### Bases de Datos & Backend Services
+<img src="https://skillicons.dev/icons?i=postgres,mysql,supabase" height="50" alt="DB" />
 
-### UX / UI
-<p>
-  <img src="https://skillicons.dev/icons?i=figma" />
-</p>
+### Herramientas & Diseño
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" height="50" alt="Tools" />
 
-### Herramientas
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+<br>
+<img src="https://img.shields.io/badge/Vibe-Coding-8A2BE2?style=for-the-badge&logo=sparkles&logoColor=white" />
+
+</div>
 
 ---
 
-## 🎨 UX / UI – Figma
+<!-- ===== PROJECTS ===== -->
+## 🎨 UX / UI – Figma Designs
 Diseño interfaces enfocadas en claridad, estructura y experiencia de usuario.
 
-- **Mockup Hi-Fi – Prompt Hub**  
-  https://www.figma.com/design/mhf5oLkWH7NPKyg9a33KOq/PROYECTO-SISTEMAS-INFORMACION-MOCKUP--PROMPT-HUB-
-
-- **Prototipo – Proyecto Diseño**  
-  https://www.figma.com/design/H7VSpfr6xvj7ynstftpERj/PROTOTIPO-DISE%C3%91O-PROYECTO
+| Proyecto | Descripción | Link |
+| :--- | :--- | :--- |
+| **Prompt Hub** | Mockup Hi-Fi de un sistema de gestión de prompts. | [Ver en Figma](https://www.figma.com/design/mhf5oLkWH7NPKyg9a33KOq/PROYECTO-SISTEMAS-INFORMACION-MOCKUP--PROMPT-HUB-) |
+| **Proyecto Diseño** | Prototipo completo de interactividad y flujos. | [Ver en Figma](https://www.figma.com/design/H7VSpfr6xvj7ynstftpERj/PROTOTIPO-DISE%C3%91O-PROYECTO) |
 
 ---
 
 ## 🚀 Proyectos Destacados
 
-- **Proyecto Arcane**  
-  Proyecto de Sistemas de Información  
-  https://github.com/Davoshelter/ProyectoArcane.1
+### 🏛️ Académico & Sistemas
+- **[Proyecto Arcane](https://github.com/Davoshelter/ProyectoArcane.1)**  
+  *Sistema de Información.* Desarrollo integral para gestión de datos.
+  
+- **[DesignWeb2 Practicos](https://github.com/Davoshelter/DesignWeb2Practicos)**  
+  Repositorio central de prácticas académicas desplegado en GitHub Pages.
 
-- **Stopwatch with Music**  
-  Cronómetro con música (HTML, CSS, JS + Tailwind)  
-  https://github.com/Davoshelter/Stopwatch_with_music
+### 🌐 Desarrollo Web
+- **[Proyecto OnlyThree](https://github.com/Davoshelter/DesignWeb2ProyectoOnlyThree)**  
+  Aplicación web moderna utilizando **Supabase** como backend en tiempo real.
 
-- **Proyecto OnlyThree**  
-  Aplicación web con Supabase como base de datos  
-  https://github.com/Davoshelter/DesignWeb2ProyectoOnlyThree
+- **[Stopwatch with Music](https://github.com/Davoshelter/Stopwatch_with_music)**  
+  Cronómetro interactivo con reproductor de música integrado.  
+  *(Stack: HTML, CSS, JS + Tailwind)*
 
-- **DesignWeb2 Actividad 2**  
-  Ejercicios y prácticas académicas  
-  https://github.com/Davoshelter/DesignWeb2Actividad2
+- **[DesignWeb2 Actividad 2](https://github.com/Davoshelter/DesignWeb2Actividad2)**  
+  Colección de ejercicios y prácticas de maquetación avanzada.
 
-- **DesignWeb2 Practicos**  
-  Repositorio central con GitHub Pages  
-  https://github.com/Davoshelter/DesignWeb2Practicos
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Davoshelter&show_icons=true&hide_title=true&theme=default" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davoshelter&layout=compact" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Davoshelter" />
-</p>
-
----
-
-## 📫 Contacto
-- 📧 Email: gorenadavid7@gmail.com
