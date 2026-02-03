@@ -93,8 +93,8 @@ Diseño interfaces enfocadas en claridad, estructura y experiencia de usuario.
 
 ### 🏛️ Académico & Sistemas
 - **[Proyecto Arcane](https://davoshelter.github.io/ProyectoArcane.1/)**  
-  *Sistema de Información.* Desarrollo integral para gestión de datos.
-  
+  *Sistema de Información.* Desarrollo integral para gestión de datos aplicado en una appweb Prompt Vault.
+  - **[Repositorio](https://github.com/Davoshelter/ProyectoArcane.1)**
 - **[Proyecto OnlyThree](https://davoshelter.github.io/DesignWeb2ProyectoOnlyThree/)**  
   Aplicación web moderna utilizando **Supabase** como backend en tiempo real.
     - **[Repositorio](https://github.com/Davoshelter/DesignWeb2ProyectoOnlyThree)**
