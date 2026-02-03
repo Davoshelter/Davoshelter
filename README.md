@@ -92,20 +92,20 @@ Diseño interfaces enfocadas en claridad, estructura y experiencia de usuario.
 ## 🚀 Proyectos Destacados
 
 ### 🏛️ Académico & Sistemas
-- **[Proyecto Arcane](https://github.com/Davoshelter/ProyectoArcane.1)**  
+- **[Proyecto Arcane](https://davoshelter.github.io/ProyectoArcane.1/)**  
   *Sistema de Información.* Desarrollo integral para gestión de datos.
   
-- **[DesignWeb2 Practicos](https://github.com/Davoshelter/DesignWeb2Practicos)**  
+- **[Proyecto OnlyThree](https://davoshelter.github.io/DesignWeb2ProyectoOnlyThree/)**  
+  Aplicación web moderna utilizando **Supabase** como backend en tiempo real.
+    - **[Repositorio](https://github.com/Davoshelter/DesignWeb2ProyectoOnlyThree)**
+### 🌐 Desarrollo Web
+- **[DesignWeb2 Practicos](https://davoshelter.github.io/DesignWeb2Practicos/)**  
   Repositorio central de prácticas académicas desplegado en GitHub Pages.
 
-### 🌐 Desarrollo Web
-- **[Proyecto OnlyThree](https://github.com/Davoshelter/DesignWeb2ProyectoOnlyThree)**  
-  Aplicación web moderna utilizando **Supabase** como backend en tiempo real.
-
-- **[Stopwatch with Music](https://github.com/Davoshelter/Stopwatch_with_music)**  
+- **[Stopwatch with Music](https://davoshelter.github.io/Stopwatch_with_music/)**  
   Cronómetro interactivo con reproductor de música integrado.  
   *(Stack: HTML, CSS, JS + Tailwind)*
 
-- **[DesignWeb2 Actividad 2](https://github.com/Davoshelter/DesignWeb2Actividad2)**  
+- **[DesignWeb2 Actividad 2](https://davoshelter.github.io/DesignWeb2Actividad2/)**  
   Colección de ejercicios y prácticas de maquetación avanzada.
 
